@@ -1,4 +1,4 @@
-package com.deeromptech.cryptotracker.crypto.presentation.model
+package com.deeromptech.cryptotracker.crypto.presentation.models
 
 import androidx.annotation.DrawableRes
 import com.deeromptech.cryptotracker.core.presentation.util.getDrawableIdForCoin

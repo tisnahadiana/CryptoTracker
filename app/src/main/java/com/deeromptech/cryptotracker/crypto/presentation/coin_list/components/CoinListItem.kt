@@ -24,8 +24,8 @@ import androidx.compose.ui.tooling.preview.PreviewLightDark
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.deeromptech.cryptotracker.crypto.domain.Coin
-import com.deeromptech.cryptotracker.crypto.presentation.model.CoinUi
-import com.deeromptech.cryptotracker.crypto.presentation.model.toCoinUi
+import com.deeromptech.cryptotracker.crypto.presentation.models.CoinUi
+import com.deeromptech.cryptotracker.crypto.presentation.models.toCoinUi
 import com.deeromptech.cryptotracker.ui.theme.CryptoTrackerTheme
 
 @Composable

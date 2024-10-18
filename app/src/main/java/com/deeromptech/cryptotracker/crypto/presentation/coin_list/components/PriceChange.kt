@@ -20,7 +20,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.PreviewLightDark
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.deeromptech.cryptotracker.crypto.presentation.model.DisplayableNumber
+import com.deeromptech.cryptotracker.crypto.presentation.models.DisplayableNumber
 import com.deeromptech.cryptotracker.ui.theme.CryptoTrackerTheme
 import com.deeromptech.cryptotracker.ui.theme.greenBackground
 

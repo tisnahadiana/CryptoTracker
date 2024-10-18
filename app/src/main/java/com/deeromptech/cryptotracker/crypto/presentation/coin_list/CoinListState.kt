@@ -1,7 +1,7 @@
 package com.deeromptech.cryptotracker.crypto.presentation.coin_list
 
 import androidx.compose.runtime.Immutable
-import com.deeromptech.cryptotracker.crypto.presentation.model.CoinUi
+import com.deeromptech.cryptotracker.crypto.presentation.models.CoinUi
 
 @Immutable
 data class CoinListState(
